@@ -1,8 +1,7 @@
 ### OLÁ! SOU MV ✌
 - 🔭 Atualmente sou estudante de S.I...
-- 🌱 Atualmente estou aprendendo a programar em java...
+- 🌱 Atualmente estou programando em java...
 - 🤔 Procuro ajuda em desafio que não consigo solucionar...
-- 📫 Inta: mvsiqueira, twitter: devmv_
 - 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/M-V-DEV">
@@ -29,7 +28,7 @@
  	<a href="https://www.twitch.tv/mvzinho0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/<% MV %>#6505" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mv.dev212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-vinicius-dos-santos-siqueira-124a041a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/M-V-DEV/M-V-DEV/blob/output/github-contribution-grid-snake.svg)
  
