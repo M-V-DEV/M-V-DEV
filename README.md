@@ -1,5 +1,4 @@
-### OLÁ! SOU MV ✌
-- 🔭 Atualmente sou estudante de S.I...
+### OLÁ! SOU MV ✌ ESTUDANTE DE BSI
 <div align="center">
   <a href="https://github.com/M-V-DEV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-V-DEV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
