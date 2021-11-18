@@ -1,9 +1,6 @@
 ### OLÁ! SOU MV ✌
 - 🔭 Atualmente sou estudante de S.I...
-- 🌱 Atualmente estou programando em java...
-- 🤔 Procuro ajuda em desafio que não consigo solucionar...
-- 😄 Pronouns: ele/dele
-<div>
+<div align="center">
   <a href="https://github.com/M-V-DEV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-V-DEV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-V-DEV&layout=compact&langs_count=7&theme=dark"/>
@@ -17,9 +14,8 @@
   <img align="center" alt="M-V-DEV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="M-V-DEV-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="M-V-DEV-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="mv-yoda" src="https://cdn.discordapp.com/attachments/756590746718699671/877993387314282546/mvz.gif">
+ <img align="right" alt="mv-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/756590746718699671/877993387314282546/mvz.gif">
 </div>
-
   
   ##
  
